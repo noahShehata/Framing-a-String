@@ -1,4 +1,4 @@
-// I made the following code following basic functional programming etiquettes.
+// I made the following code based on basic functional programming etiquettes.
 
 
 // FormatString function formats each individual words with the spacing
