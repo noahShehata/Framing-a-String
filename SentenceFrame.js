@@ -21,7 +21,7 @@ const FormatString = (sentence) => {
 // StringFrame function wraps each word in the sentence with *'s
 const StringFrame = (sentence) => {
     
-    FormatString(sentence); // Since arrays are pointers, no return values necessary
+    FormatString(sentence);
 
     // Creates the top and bottom border
     let border = "*".repeat(maxLen + 4);
